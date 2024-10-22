@@ -2,9 +2,8 @@
 
 ### Instructions 
 - For each problem, test your code to verify that it runs correctly and produces random outputs
-- Add short, descriptive comments to your code to explain what the main part of the script does
 - Be prepared to discuss your work with your teacher during Teacher Time
-- Upload your script to a new repo named **randomness-practice**
+- Upload your script to a new GitHub repo named **randomness-practice**
 
 ### Helpful Resources
 
