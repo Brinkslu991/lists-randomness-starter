@@ -32,7 +32,7 @@ for i in names:
     print(f'{i} has a score of {rd.randint(0,100)}')
 
 
-movies = ['How to Train Your Dragon', 'Transformers', 'Interstellar', 'Deadpool', 'The Dark Knight']
+movies = ['How to Train Your Dragon', 'Transformers 1', 'Interstellar', 'Deadpool', 'The Dark Knight']
 
 ranmovies = rd.randint(0,len(movies)-1)
 
