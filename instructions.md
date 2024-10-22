@@ -58,7 +58,7 @@ Check out these related resources before you start writing your code.
 6. **Random Movie Selector**
    - Create a list of five movies (e.g., "Inception", "Titanic", "Avatar", "The Dark Knight", "Interstellar").
    - Use the `len()` function to find the number of movies in the list.
-   - Use `randint()` to select a random movie and print the selected movie along with its index in the list.
+   - Use `randint()` to select a random movie and print the randomly selected movie along with its index in the list.
 
 
 
