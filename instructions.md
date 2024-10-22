@@ -13,6 +13,7 @@ Check out these related resources before you start writing your code.
 1. [YouTube: Python `randint()` method](https://youtu.be/8oDESprnkXk?feature=shared)
 2. [YouTube: Python `randrange()` method](https://youtu.be/ep1NVT-2lbo?feature=shared)
 3. [YouTube: `randint()`, `choice()` and `randrange()` methods in Python](https://youtu.be/J_U87KDrd3Y?feature=shared)
+4. [`len()` function in Python](https://www.w3schools.com/python/trypython.asp?filename=demo_ref_len)
 
 ### Problems Using `randrange()`
 
