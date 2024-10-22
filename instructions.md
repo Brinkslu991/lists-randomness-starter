@@ -44,9 +44,7 @@ Check out these related resources before you start writing your code.
    - Use the `len()` function to determine the number of fruits in the list.
    - Use the `randint()` method to select a random index and print the fruit at that index.
 
-   ```python
-   # Your code here
-   ```
+
 
 5. **Random Score Generator**
    - Define a list of five students' names.
